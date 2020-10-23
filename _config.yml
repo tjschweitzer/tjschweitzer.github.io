@@ -25,7 +25,7 @@ linkedin_username: tjschweitzer
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm a research assistant and teachers assistant while completing my M.S. in Computer Science at the Universit of Montana.
-  Currently researching: <mark>Python</mark> and <mark>Eating Pizza</mark>
+  Currently researching: Fire simulation modeling using [FDS](https://www.nist.gov/services-resources/software/fds-and-smokeview)
 
 # Projects Section
 # projects_title: Projects
