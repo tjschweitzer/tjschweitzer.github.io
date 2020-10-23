@@ -3,10 +3,10 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Trent Schweitzer
+title: 
+email: info@tjschweitzer.tech
+website: tjschweitzer.tech
 
 # Social links
 twitter_username: facespics
@@ -17,7 +17,7 @@ github_username:  sproogen
 instagram_username: chillwildlife
 linkedin_username: jameswgrant
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
