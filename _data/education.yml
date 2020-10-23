@@ -1,10 +1,19 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
-  quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  name: University of Montana
+  dates: 2018-2022
+  qualification: M.S. Computer Science
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    As a graduate student I did things and learned stuff 
+    
+  name: University of Montana
+  dates: 2011 - 2018
+  qualification: B.S.  Kinesiology and Exercise Science
+  description: | # this will include new lines to allow paragraphs
+    While completing my undergraduate degree I discovered my passion for software endinering while doing research on Biomechanics
+    
+     name: Northwest College
+  dates: 2007 - 2009
+  qualification: A.A.S. Photography
+  description: | # this will include new lines to allow paragraphs
+    
+   
