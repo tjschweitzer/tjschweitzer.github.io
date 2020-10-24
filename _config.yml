@@ -22,9 +22,10 @@ linkedin_username: tjschweitzer
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm a research assistant and teachers assistant while completing my M.S. in Computer Science at the Universit of Montana.
+  
   Currently researching: Fire simulation modeling using [FDS](https://www.nist.gov/services-resources/software/fds-and-smokeview)
 
 # Projects Section
