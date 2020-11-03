@@ -5,4 +5,4 @@
   quote: >
     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    This project is a way for users to be  able to take a FDS output file and visulize the simulation using ParaView's OpenVR plugin. This is part of a larger project called Standfire, that will alow for users to select a location and will get a fds output file.
+    This project is a way for users to be  able to take an FDS output file and visulize the simulation using ParaView's OpenVR plugin. This is part of a larger project called Standfire, that will allow for users to select a location and get a fds output file.

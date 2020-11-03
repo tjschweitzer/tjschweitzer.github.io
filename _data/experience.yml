@@ -6,4 +6,4 @@
   quote: >
     
   description: | # this will include new lines to allow paragraphs
-    The Jonson lab works with the Missoula Fire Lab with help from NIST to develop a system called Standfire a containerized application to allow for more accurate fire model simulations to be generated in a way that is moduler so different fire models can be used as desired.
+    The Johnson Lab works with the Missoula Fire Lab with help from NIST to develop a system called Standfire, a containerized application. This allows for more accurate fire model simulations to be generated in a way that is moduler, so different fire models can be used as desired.

@@ -24,7 +24,7 @@ linkedin_username: tjschweitzer
 # about_title: About Me
 about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a research assistant and teachers assistant while completing my M.S. in Computer Science at the Universit of Montana.
+  I'm a Research Assistant and Teacher's Assistant while completing my M.S. in Computer Science at the University of Montana.
   
   Currently researching: Fire simulation modeling using [FDS](https://www.nist.gov/services-resources/software/fds-and-smokeview)
 
@@ -40,7 +40,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests software engineering some of my other interests and hobbies are:
+  Alongside my interests in software engineering some of my other interests and hobbies include:
    - Rock climbing
    - Photography
    - Flying Drones
