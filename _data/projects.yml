@@ -1,7 +1,7 @@
 - layout: top-middle
   name: FDS to Unity VR pipeline
   link: github.com/tjschweitzer/FastVRTest/
-  github: sproogen/tjschweitzer
+  github: tjschweitzer/FastVRTest
   quote: > 
     Finding a new way to visualize FDS output for wildland firefighter training
   description: | # this will include new lines to allow paragraphs
