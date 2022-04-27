@@ -1,8 +1,13 @@
-- layout: left
+layout: left
   name: University of Montana
-  dates: 2019 - Present
+  dates: In Progress
   qualification: M.S. Computer Science
   description: | # this will include new lines to allow paragraphs
-    As a graduate student I am able assist new students in the Conputer Science field as Teachers Assistant, while working on my own research pertaining to dynamic fire modeling . 
-    
+    As a graduate student I assist new students in the Computer Science department as Teachers Assistant, while developing software as a Research Assistant using computational fluid dynamic models to visualize fire behavior. 
 
+  name: University of Montana
+  dates: 2015
+  qualification: B.S. Exercise Science
+  description: | # this will include new lines to allow paragraphs
+    
+    
